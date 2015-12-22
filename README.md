@@ -60,7 +60,7 @@ The implementation of Shigeru is inspired by [Michel Martens](https://github.com
 
 ## Contributing
 
-Bug reports and pull requests are welcome on [GitHub](https://github.com/moonglum/shigeru). You can find more information about contributing in the [CONTRIBUTING.md](https://github.com/moonglum/shigeru/blob/master/CONTRIBUTING.md). This project is intended to be a safe, welcoming space for collaboration and discussion, and contributors are expected to adhere to the [Contributor Covenant](contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on [GitHub](https://github.com/moonglum/shigeru). You can find more information about contributing in the [CONTRIBUTING.md](https://github.com/moonglum/shigeru/blob/master/CONTRIBUTING.md). This project is intended to be a safe, welcoming space for collaboration and discussion, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org/) code of conduct.
 
 ## License
 
